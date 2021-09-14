@@ -14,3 +14,7 @@ just a demo to try streamlit capability
 3- install requirements
 
         pip install requirements.txt
+
+4- launch with streamlit
+
+        streamlit run app.py
